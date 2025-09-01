@@ -4,15 +4,15 @@ Kreirajte varijable (imenujte ih i dodijelite im odgovarajuću vrijednost) za:
  - Stranice a i b, četverokuta te za površinu tog četverokuta.
 '''
 
-ime = 'Andrija'
-prezime = 'Pericic'
-godina_rodjenja = 1991
-drzava_rodjenja = 'Hrvatska'
-status_radnog_odnosa = 'Zaposlen'
-tezina = 82.0 # u kilogramima
-spol = 'Muski'
+first_name = 'Andrija'
+last_name = 'Pericic'
+year_of_birth = 1991
+country_of_birth = 'Hrvatska'
+employment_status = True
+weight = 82.0 # in kg
+gender = 'Muski'
 
-# stranice cetverokuta
+
 a = 5
 b = 2
-P = (a * b) / 2
+p = (a * b) / 2
