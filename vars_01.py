@@ -6,7 +6,7 @@ Kreirajte varijable (imenujte ih i dodijelite im odgovarajuću vrijednost) za:
 
 ime = 'Andrija'
 prezime = 'Pericic'
-godina_rodjenja = '1991'
+godina_rodjenja = 1991
 drzava_rodjenja = 'Hrvatska'
 status_radnog_odnosa = 'Zaposlen'
 tezina = 82.0 # u kilogramima
