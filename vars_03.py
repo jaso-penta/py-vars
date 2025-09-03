@@ -26,6 +26,7 @@ student_surname = 'Ivic'
 final_score = 4.4
 is_graduated = True
 
+
 '''
 Kreirati varijablu za čuvanje podataka o studentu: ime i prezime, OIB, email, 
 broj telefona, prosječna ocjena, godina upisa studija, naziv studija, naziv sveučilišta
