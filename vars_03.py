@@ -23,8 +23,8 @@ završnoj ocjeni te podataka je li diplomirao ili nije
 
 student_name = 'Ivo'
 student_surname = 'Ivic'
-grade = 4.4
-graduate = True
+final_score = 4.4
+is_graduated = True
 
 '''
 Kreirati varijablu za čuvanje podataka o studentu: ime i prezime, OIB, email, 
