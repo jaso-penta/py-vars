@@ -34,8 +34,8 @@ broj telefona, prosječna ocjena, godina upisa studija, naziv studija, naziv sve
 student_name = "Ivo"
 student_surname = "Ivic"
 oib = 12345678900
-email = x@gmail.com
-phone_number = 09555544433
+email = "x@gmail.com"
+phone_number = "09555544433"
 average_grade = 5.0
 year_of_enrollment = 2000
 study_field = "Agronomija"
